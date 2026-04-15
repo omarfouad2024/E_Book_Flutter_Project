@@ -1,4 +1,4 @@
-<<h1 align="center">Hi 👋, I'm Omar Fouad</h1>
+<h1 align="center">Hi 👋, I'm Omar Fouad</h1>
 <h3 align="center">💡 Flutter Developer | Mobile App Developer</h3>
 
 <p align="center">
@@ -9,40 +9,51 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 👨‍💻 Objective
-To build high-quality mobile applications that solve real-world problems while improving my skills in clean architecture, performance optimization, and software engineering.
+## 👨‍💻 About Me
+
+- 📱 Flutter Developer focused on cross-platform mobile apps  
+- 🎯 Passionate about clean architecture & scalable code  
+- 🔗 Experienced in REST APIs & Firebase integration  
+- 🎨 Strong interest in UI/UX design & responsive apps  
+- 📍 Based in Giza, Egypt  
+- 🌱 Always learning and improving my skills  
 
 ---
 
-## 🚀 About Me
-- 📱 Flutter Developer specializing in cross-platform mobile apps  
-- 🎯 Passionate about clean code and scalable architecture  
-- 🔗 Experienced with RESTful APIs and Firebase integration  
-- 🎨 Strong interest in UI/UX and responsive design  
-- 📍 Based in Giza, Egypt  
-- 🌱 Always learning and improving my development skills  
+## 🎯 Objective
+
+To build high-quality mobile applications that solve real-world problems while improving my skills in software engineering, clean architecture, and performance optimization.
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
-- Dart, JavaScript, HTML, CSS
+- Dart  
+- JavaScript  
+- HTML  
+- CSS  
 
 ### ⚙️ Frameworks & Technologies
-- Flutter, Firebase, RESTful APIs
+- Flutter  
+- Firebase  
+- RESTful APIs  
 
 ### 🧰 Tools
-- Git, GitHub, Visual Studio Code, Android Studio, Figma
+- Git & GitHub  
+- Visual Studio Code  
+- Android Studio  
+- Figma  
 
 ### 🧠 Core Concepts
 - Object-Oriented Programming (OOP)  
 - Clean Architecture  
-- State Management  
+- State Management (Provider / Riverpod / Bloc)  
 - Responsive UI Design  
 - Performance Optimization  
 
@@ -50,49 +61,25 @@ To build high-quality mobile applications that solve real-world problems while i
 
 ## 📌 Featured Project
 
-### 📚 E-Book Flutter Application
-A modern cross-platform mobile application for reading and managing digital books with a clean and intuitive UI.
+### 📚 E-Book Flutter App
+
+A modern Flutter application for reading and managing digital books with a clean and intuitive UI.
 
 ### ✨ Features
-- 📖 Browse and read digital books  
-- 🔍 Search and explore book collections  
-- 🎨 Clean and responsive UI  
-- ⚡ Smooth navigation and performance optimization  
-- 🔗 RESTful API integration  
-- 🧩 Built using Flutter best practices  
+- 📖 Read and browse books  
+- 🔍 Advanced search functionality  
+- ⭐ Add to favorites  
+- 📌 Bookmark reading progress  
+- 🌙 Dark / Light mode support  
+- ⚡ Smooth performance and navigation  
+- 🔗 REST API integration  
 
-🔗 **Project Repository:**  
+🔗 Repository:  
 https://github.com/omarfouad2024/E_Book_flutter_project
 
 ---
 
-## 📊 GitHub Stats
+## 🏗️ Project Architecture
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarfouad2024&show_icons=true&theme=tokyonight" />
-</p>
+This project follows **Clean Architecture principles**:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarfouad2024&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🖼️ Screenshots
-
-<p align="center">
-  <img src="images/home.png" width="250">
-  <img src="images/details.png" width="250">
-  <img src="images/reader.png" width="250">
-</p>
-
----
-
-## 📫 Connect With Me
-- 🔗 LinkedIn: https://www.linkedin.com/in/omar-mohamed-fouad  
-- 💻 GitHub: https://github.com/omarfouad2024  
-- 📧 Email: omar.mohamed.0523094@gmail.com  
-
----
-
-⭐ From **Omar Fouad**
